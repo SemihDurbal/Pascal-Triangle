@@ -1,0 +1,7 @@
+C:\Users\Semih Durbal\source\repos\C#\Final Son Soru\Final Son Soru\obj\Debug\Final Son Soru.csproj.AssemblyReference.cache
+C:\Users\Semih Durbal\source\repos\C#\Final Son Soru\Final Son Soru\obj\Debug\Final Son Soru.csproj.CoreCompileInputs.cache
+C:\Users\Semih Durbal\source\repos\C#\Final Son Soru\Final Son Soru\bin\Debug\Final Son Soru.exe.config
+C:\Users\Semih Durbal\source\repos\C#\Final Son Soru\Final Son Soru\bin\Debug\Final Son Soru.exe
+C:\Users\Semih Durbal\source\repos\C#\Final Son Soru\Final Son Soru\bin\Debug\Final Son Soru.pdb
+C:\Users\Semih Durbal\source\repos\C#\Final Son Soru\Final Son Soru\obj\Debug\Final Son Soru.exe
+C:\Users\Semih Durbal\source\repos\C#\Final Son Soru\Final Son Soru\obj\Debug\Final Son Soru.pdb
